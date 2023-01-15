@@ -1,0 +1,65 @@
+10:04:00.181 f4e2416b-3994-4554-9cc2-7c482a0ff931:1          Failed to load resource: the server responded with a status of 404 ()
+10:04:00.220 connect.facebook.net/en_US/fbevents.js:1          Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:15.499 Refused to load the script '<URL>' because it violates the following Content Security Policy directive: "script-src 'self' 'unsafe-eval' 'unsafe-inline' <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL> <URL>". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+
+10:04:00.435 all_responsive_26.js:1487 chrome 1212
+10:04:00.436 all_responsive_26.js:1527 chrome name of browser
+10:04:00.622 f4e2416b-3994-4554-9cc2-7c482a0ff931:1          Failed to load resource: the server responded with a status of 404 ()
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 Failed to decode downloaded font: <URL>
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:15.500 OTS parsing error: invalid sfntVersion: 1013478509
+10:04:00.869 all_responsive_26.js:2808 Uncaught TypeError: Cannot read properties of null (reading 'contentWindow')
+    at handleForm (all_responsive_26.js:2808:65)
+10:04:00.885 all_responsive_26.js:1487 chrome 1212
+10:04:00.885 all_responsive_26.js:1527 chrome name of browser
+10:04:01.082 addons_responsive_26.js:7 captcha test
+10:04:15.495 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND

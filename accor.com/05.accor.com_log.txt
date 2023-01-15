@@ -1,0 +1,77 @@
+15:57:05.903 evergage.min.js:1893 checkConsent
+15:57:05.903 evergage.min.js:1896 consent detected
+15:57:05.903 evergage.min.js:1048 === INTERACTION STUDIO SITE MAPPING ===
+15:57:05.904 evergage.min.js:1347 getHotelFunnalData: undefined
+15:59:04.305 [Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+15:59:04.305 [Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+15:59:04.305 [Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+15:59:04.305 [Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+15:59:04.305 [Intervention] Slow network is detected. See <URL> for more details. Fallback font will be used while loading: <URL>
+15:57:15.810 71e8e04.modern.js:2 Uncaught (in promise) Error: Navigation cancelled from "/app/accor/hotels/istanbul-turkey/index.en.shtml?token=ZCZF_LgWmVF4wvhtfyjNMKY8IKHuRNOmSxgsG0P83ZcPgsCIKuZ3GFuNPBCXs0Gy9MGpOs7Z_u02kqt1625P9PkXwLcnDRUkRitE21KhwDsYp8OG9ymiwQfjmIEB_Zl-LfPZbOlQF6jErVbS0kpEzunE8NEZSnpBEuz18URHVSnLfBbexVELL3vTFAaEQ1MR6ez-awxDme7E0I_VU6iA7fxS0yPjuaiNOxJ0fjP6zUKWAvUMQa3PVJSOoREFIEk_84ZL5XjjkRdbAXvxtkjpRzjuo_4VQTmgE7NPkvgKU4AArhazEtdKjXc-99t1fygVVFD8grwZ6vuS99ZtOp9UkJ5zAatH81r_pUv4FQAkLydolUqZPXHhlTiKWq32m2hIrLmbC3lTz37q4nsOW6rs4Lu8qa3ZDndUL4xYM7p_pylBVPcTLf7QQmWSV0Q1H5LAW1eQhp0prUj8it6rYq0u8CmRHtn2BEYIyO_k61F6QRCMLq3oZZyoJVzoDtlOJqkV1DUByPqevgrLiaCYznzmCAs2OctSpv6KXLiFjwOEi0MEyhhpAp7Qkc176Z7d_l2mf5V_b7g-2-b4Tnnz3Cf62KYfQ06zJKIjHWSgWqWokj6PwJ121ror3TZ-uXtE3qMA4YQ7uuLtQRf47tQns-AUFTCr1wDfPs_ldSjOlfBbWhHYw54mqrn_Xg2Pc3aZAaSE9q2ujeky9G-FHnh_tGeFwOuobqUvWsyuJKAr-xTN6axEKevwe3Xgv7vpqP0wEgwykMxwf8f7arjvo60WKohBR5GKlRvXgH1zZj4-VfuXQE-10Jikedtxas7fBuk69wJBQJIEeB8oR5N3OHt-N7ljfc3XDRw4cmJqo4Sro7z5axNXtAonREGZz2EeB_YMxi4ppUpPE8cG4WP1JYf6PhBLcGAwX5kN5SbNyZk4RKj2H7Obd5g500Qbj_ycOJu4Iq9GZR-s2E1dPaju5B_bwzjNRzMKH1wxiQDmbz2K-pkUuV1SUC7_JllLZvjDvyBpOkxFSrvzJNPm3cQzMs8l7GURtu6UCktXI5OBexMoqWOgZTM3nV7M0I4VifZwTR2BejfaH-03qtIscdIf-ikv2LGl39PG4JM1Mh_mT4cvHvptDY3b9pxv6fPIrSa33e1xdOANMWTjle2TxEqVwtyrVMBMnrQsEZMwiue0JLUw8qPRsV9N08hdwq9kYEPgcUSAFEh-0fDhol-zgEzbwPRnOMv33HFsTkI&dateIn=2022-12-14&nights=1&compositions=1&stayplus=false&snu=false&accessibleRooms=false" to "/app/accor/hotels/istanbul-turkey/index.en.shtml?dateIn=2022-12-14&nights=1&compositions=1&stayplus=false&snu=false&accessibleRooms=false" with a new navigation.
+    at It (71e8e04.modern.js:2:80035)
+    at Rt (71e8e04.modern.js:2:79899)
+    at _ (71e8e04.modern.js:2:83719)
+    at r (71e8e04.modern.js:2:80330)
+    at 71e8e04.modern.js:2:80349
+    at 71e8e04.modern.js:2:84098
+    at 375ef3f.modern.js:1:188559
+    at Generator.next (<anonymous>)
+    at r (71e8e04.modern.js:2:970)
+    at l (71e8e04.modern.js:2:1173)
+15:57:19.462 rec-api.accor.com/tots/v1.0/winning-ads?checkIn=2022-12-14&checkOut=2022-12-15&destHotels=5998,5997,A5E2,B868,B883&deviceType=Desktop:1          Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+15:57:20.018 rec-api.accor.com/tots/v1.0/winning-ads?checkIn=2022-12-14&checkOut=2022-12-15&destHotels=5998,5997,A5E2,B868,B883&deviceType=Desktop:1          Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+15:57:21.228 main-booking-ssr.js:1816 ## GTM State Loader - dont found GTMStateLoader in window - create a new one e
+15:57:21.620 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - isBodyPresent true
+15:57:21.620 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - found nopush attribute false
+15:57:21.623 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - isBodyPresent true
+15:57:21.623 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - found nopush attribute false
+15:57:21.625 main-booking-ssr.js:1816 oidc auto login failed
+(anonymous) @ main-booking-ssr.js:1816
+15:57:21.625 main-booking-ssr.js:1816 oidc auto login failed
+(anonymous) @ main-booking-ssr.js:1816
+15:57:21.817 main-booking-ssr.js:1816 ## Tagmanager - cookie trckCookie not found
+15:57:21.818 main-booking-ssr.js:1816 ## TagManager - REFERRER IS AH WEBSITE
+15:57:21.819 main-booking-ssr.js:1816 ## TagManager - Found data partner_id with value undefined in cookie (/, .accor.com)
+15:57:21.819 main-booking-ssr.js:1816 ## TagManager - Add data partner_id with value undefined to datalayer
+15:57:21.820 main-booking-ssr.js:1816 ## Tagmanager - GTM is loading - State 2 - add to pending list
+15:57:21.830 main-booking-ssr.js:1816 ## Tagmanager - cookie trckCookie not found
+15:57:21.831 main-booking-ssr.js:1816 ## TagManager - REFERRER IS AH WEBSITE
+15:57:21.834 main-booking-ssr.js:1816 ## TagManager - Found data partner_id with value undefined in cookie (/, .accor.com)
+15:57:21.834 main-booking-ssr.js:1816 ## TagManager - Add data partner_id with value undefined to datalayer
+15:57:21.836 main-booking-ssr.js:1816 ## Tagmanager - GTM is loading - State 2 - add to pending list
+15:57:22.002 main-booking-ssr.js:1816 ## TagManager - load script gtm succesfully
+15:57:22.003 main-booking-ssr.js:1816 ## Tagmanager - isAutoTrackPageDisable false
+15:57:22.003 main-booking-ssr.js:1816 ## Tagmanager - isBookingFunnelPage true
+15:57:22.004 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - isBodyPresent true
+15:57:22.004 main-booking-ssr.js:1816 ## Tagmanager - isNoPush - found nopush attribute false
+15:57:22.004 main-booking-ssr.js:12717 ## TagManager - auto track page 0
+15:57:22.006 main-booking-ssr.js:12717 ## TagManager - Web vitals init
+15:57:22.007 main-booking-ssr.js:1816 ## Tagmanager - Loading GTM - finally - State 3 - processing pending promises 2
+15:57:22.007 main-booking-ssr.js:1816 ## TagManager - push to dataLayer Object
+15:57:22.260 main-booking-ssr.js:1816 ## TagManager - push to dataLayer Object
+15:57:22.383 rec-api.accor.com/tots/v1.0/winning-ads?checkIn=2022-12-14&checkOut=2022-12-15&destHotels=5998,5997,A5E2,B868,B883&deviceType=Desktop:1          Failed to load resource: the server responded with a status of 503 (Service Unavailable)
+15:57:22.570 evergage.min.js:1842 currentLocale: en_US
+15:57:23.540 ​ params Object
+15:57:23.541 ​ page type is search
+15:57:23.664 FuKF6OOS68yCy7qj.html?p=search&url=https%3A%2F%2Fint4-all.accor.com%2Fssr%2Fapp%2Faccor%2Fhotels%2Fistanbul-turkey%2Findex.en.shtml%3FdateIn%3D2022-12-14%26nights%3D1%26compositions%3D1%26stayplus%3Dfalse%26snu%3Dfalse%26accessibleRooms%3Dfalse&ccid=744384364.1670935027&ffl=not%20logged&ha1=&hb=&hc1=&hc=&hconfno=&hcu=&hd1=2022-12-14&hd2=2022-12-15&hd=1&hl=&hn1=&hp=&hpid=B319%2C8973%2CB4H8%2CA477%2C5998%2C5997%2CA5E2%2CB868%2C8007%2CB883&hpr=&hr=1&hs1=&hsr=&md5_eml=&sha1_eml=&sha256_eml=&tad=1&tch=0:110 params Object
+15:57:23.665 FuKF6OOS68yCy7qj.html?p=search&url=https%3A%2F%2Fint4-all.accor.com%2Fssr%2Fapp%2Faccor%2Fhotels%2Fistanbul-turkey%2Findex.en.shtml%3FdateIn%3D2022-12-14%26nights%3D1%26compositions%3D1%26stayplus%3Dfalse%26snu%3Dfalse%26accessibleRooms%3Dfalse&ccid=744384364.1670935027&ffl=not%20logged&ha1=&hb=&hc1=&hc=&hconfno=&hcu=&hd1=2022-12-14&hd2=2022-12-15&hd=1&hl=&hn1=&hp=&hpid=B319%2C8973%2CB4H8%2CA477%2C5998%2C5997%2CA5E2%2CB868%2C8007%2CB883&hpr=&hr=1&hs1=&hsr=&md5_eml=&sha1_eml=&sha256_eml=&tad=1&tch=0:112 page type is search
+15:57:25.053 static.ads-twitter.com/uwt.js:1          Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+15:57:25.053 j03.optimix.asia/events/opxLoader.js:1          Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+15:57:25.053 ads.travelaudience.com/js/ta.js:1          Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+15:57:25.100 main-booking-ssr.js:1816 ## Tagmanager - pushData - processing eventCallback for container GTM-59B43CD Object true
+15:57:25.101 main-booking-ssr.js:1816 ## Tagmanager - pushData - processing eventCallback for container GTM-59B43CD Object true
+15:57:25.105 index.en.shtml:1 Refused to execute script from 'https://beam.koddi.com/travel?action=pageView&clientName=Accor&domain=int4-all.accor.com&pageName=list&userGuid=&hotelId=&checkIn=2022-12-14&checkOut=2022-12-15&culture=en&currency=GBP&destCity=&rooms=1&adults=1&children=0&userAgent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36' because its MIME type ('image/gif') is not executable.
+15:57:25.105 index.en.shtml:1 Refused to execute script from 'https://beam.koddi.com/travel?action=pageView&clientName=Accor&domain=int4-all.accor.com&pageName=list&userGuid=&hotelId=&checkIn=2022-12-14&checkOut=2022-12-15&culture=en&currency=GBP&destCity=&rooms=1&adults=1&children=0&userAgent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F108.0.0.0%20Safari%2F537.36' because its MIME type ('image/gif') is not executable.
+15:57:28.246 main-booking-ssr.js:8688 ## TagManager - push to dataLayer Object
+15:57:28.281 fe5db0d.modern.js:2 info |  [GtmService] method=sendPageEvent; event={"event":"GAevent","eventCategory":"booking funnel - hotel list","eventAction":"hotel block - click on cta","eventLabel":"With dates - see hotel page","nonInteractional":false};
+15:57:28.283 main-booking-ssr.js:1816 ## Tagmanager - GTM is ready - State 3
+15:57:28.283 main-booking-ssr.js:1816 ## TagManager - push to dataLayer Object
+15:57:28.502 main-booking-ssr.js:8688 ## TagManager - push to dataLayer Object
+15:57:33.641 pixel.rubiconproject.com/tap.php?v=6434&nid=2149&put=k-PgZf_AU3DUV4qYLDDLPVILthLidMIDzcF7pFjw&expires=30:1          Failed to load resource: the server responded with a status of 422 (Unprocessable Entity)
+15:57:34.602 pixel.rubiconproject.com/tap.php?v=6434&nid=2149&put=k-PgZf_AU3DUV4qYLDDLPVILthLidMIDzcF7pFjw&expires=30:1          Failed to load resource: the server responded with a status of 422 (Unprocessable Entity)
+15:59:03.468 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+15:59:03.606 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+15:59:03.622 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+15:59:03.798 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+15:59:04.755 DevTools failed to load source map: Could not load content for https://int4-all.accor.com/css-v231/commun/icon-fonts-sharing-logos-display.css.map: HTTP error: status code 404, net::ERR_HTTP_RESPONSE_CODE_FAILURE
+15:59:16.527 main-booking-ssr.js:8688 [Violation] 'visibilitychange' handler took 232ms

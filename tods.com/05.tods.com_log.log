@@ -1,0 +1,253 @@
+09:36:38.426 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'beforeunload' handler took 165ms
+09:36:39.323 Navigated to https://www.tods.com/gb-en/home/
+09:36:39.448 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:39.585 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:40.386 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:40.417 gtm.js?id=GTM-N52N8VZ:328 [Violation] 'setTimeout' handler took 208ms
+09:36:41.215 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:37:16.156 [Violation] Avoid using document.write(). <URL>
+09:36:43.144 Refused to frame 'https://www.tods.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors https://*.todsgroup.com".
+
+09:36:43.236 35060139391:2 [Violation] 'setTimeout' handler took 57ms
+09:36:43.414 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:43.426 VM580:6789 crbug/1173575, non-JS module files deprecated.
+(anonymous) @ VM580:6789
+09:36:44.253 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:44.493 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:44.619 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'setTimeout' handler took 178ms
+09:36:44.626 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:45.060 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22          GET https://connect.facebook.net/en_US/fbevents.js net::ERR_BLOCKED_BY_CLIENT
+(anonymous) @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+Y @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:226
+apply @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+(anonymous) @ VM712:1
+(anonymous) @ VM712:1
+(anonymous) @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+Y @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:226
+apply @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+(anonymous) @ gtm.js?id=GTM-N52N8VZ:529
+(anonymous) @ gtm.js?id=GTM-N52N8VZ:530
+b @ gtm.js?id=GTM-N52N8VZ:530
+Ge @ gtm.js?id=GTM-N52N8VZ:116
+e @ gtm.js?id=GTM-N52N8VZ:299
+(anonymous) @ gtm.js?id=GTM-N52N8VZ:62
+(anonymous) @ gtm.js?id=GTM-N52N8VZ:300
+(anonymous) @ gtm.js?id=GTM-N52N8VZ:300
+fs @ gtm.js?id=GTM-N52N8VZ:302
+os @ gtm.js?id=GTM-N52N8VZ:306
+Pt @ gtm.js?id=GTM-N52N8VZ:322
+St @ gtm.js?id=GTM-N52N8VZ:327
+Wt.b.push @ gtm.js?id=GTM-N52N8VZ:330
+Wt.b.push @ js?id=G-YMQ83SWR7E&l=dataLayer&cx=c:283
+Jq.b.push @ optimize.js?id=OPT-KNX4LT2:213
+jn.updateGtmMacros @ otBannerSdk.js:7
+qr.Init @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+o @ otBannerSdk.js:7
+Promise.then (async)
+r @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+d @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+o @ otBannerSdk.js:7
+Promise.then (async)
+r @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+d @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+(anonymous) @ otBannerSdk.js:7
+09:36:45.290 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:45.446 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:45.605 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:45.608 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'otloadbanner' handler took 232ms
+09:36:45.610 [Violation] Forced reflow while executing JavaScript took 54ms
+09:36:46.050 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:46.106 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:46.220 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:46.337 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:46.391 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:46.819 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:47.056 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:47.358 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'mouseup' handler took 206ms
+09:36:47.680 cbar.js.php:5107 Personalization by https://www.BARILLIANCE.com | For support email support@barilliance.com. Your site id is 5932078
+09:36:47.849 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:47.975 /gb-en/register/:1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input class=aˆ‹"form-control psw" name=aˆ‹"password" id=aˆ‹"password-10" type=aˆ‹"password" data-cy=aˆ‹"login-password" value>aˆ‹
+09:36:50.242 [Violation] Forced reflow while executing JavaScript took 34ms
+09:36:50.720 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'input' handler took 223ms
+09:36:51.542 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'input' handler took 207ms
+09:36:52.746 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10 [Violation] 'input' handler took 182ms
+09:36:53.403 65319_1825202523.js:104 [Violation] 'setInterval' handler took 55ms
+09:36:53.409 /gb-en/register/:1 The resource https://www.tods.com/static/assets/fonts/maisonneue-demi-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+09:37:20.025 [Violation] 'requestIdleCallback' handler took <N>ms
+09:37:20.025 [Violation] 'requestIdleCallback' handler took <N>ms
+09:37:20.025 [Violation] 'requestIdleCallback' handler took <N>ms
+09:37:20.025 [Violation] 'requestIdleCallback' handler took <N>ms
+09:37:20.025 [Violation] 'requestIdleCallback' handler took <N>ms
+09:36:54.857 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22          POST https://k.clarity.ms/collect 400
+(anonymous) @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+Y @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:226
+apply @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+xa @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+o @ clarity.js:2
+Promise.then (async)
+c @ clarity.js:2
+(anonymous) @ clarity.js:2
+Q @ clarity.js:2
+Oa @ clarity.js:2
+(anonymous) @ clarity.js:2
+BOOMR_plugins_errors_wrap @ 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10
+setTimeout (async)
+BOOMR_plugins_errors_wrapped_function @ 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10
+D @ clarity.js:2
+ka @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+o @ clarity.js:2
+Promise.then (async)
+c @ clarity.js:2
+(anonymous) @ clarity.js:2
+Q @ clarity.js:2
+Rt @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+o @ clarity.js:2
+Promise.then (async)
+c @ clarity.js:2
+(anonymous) @ clarity.js:2
+Q @ clarity.js:2
+Kr @ clarity.js:2
+_t @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+Q @ clarity.js:2
+Nt @ clarity.js:2
+start @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+ci @ clarity.js:2
+t.<computed> @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+(anonymous) @ clarity.js:2
+09:36:58.525 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:58.594 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:36:59.010 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:00.203 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:02.213 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:02.631 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:07.272 /gb-en/account/shipping-address/:1 The resource https://www.tods.com/static/assets/fonts/maisonneue-demi-webfont.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+09:37:12.338 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22          POST https://www.tods.com/rest/v2/tods-gb/users/23c269be-cd5a-407e-9d75-b18774a20540/addresses?access_token=6a765961-1b6a-48eb-be53-283d1836f20e&countryOC=gb 400
+(anonymous) @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+Y @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:226
+apply @ 1d147e60f60b8d04515585fbbfa0561a4490011417de9:22
+(anonymous) @ commons.07050af145c9213dc3bd.js:1
+t.exports @ commons.07050af145c9213dc3bd.js:1
+UnBK.t.exports @ commons.07050af145c9213dc3bd.js:1
+CgaS.E.request @ commons.07050af145c9213dc3bd.js:1
+CgaS.r.forEach.E.<computed> @ commons.07050af145c9213dc3bd.js:1
+(anonymous) @ commons.07050af145c9213dc3bd.js:1
+value @ commons.07050af145c9213dc3bd.js:1
+value @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+E @ commons.07050af145c9213dc3bd.js:1
+(anonymous) @ commons.07050af145c9213dc3bd.js:1
+(anonymous) @ commons.07050af145c9213dc3bd.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+y @ _app-5d9cfc97252856aab8d4.js:1
+t.cont @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.SELECT @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.SELECT @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+St @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.SELECT @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.SELECT @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.SELECT @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+St @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+He @ _app-5d9cfc97252856aab8d4.js:1
+YNMu.rt.FORK @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+p @ _app-5d9cfc97252856aab8d4.js:1
+d @ _app-5d9cfc97252856aab8d4.js:1
+u @ _app-5d9cfc97252856aab8d4.js:1
+s @ _app-5d9cfc97252856aab8d4.js:1
+e.put @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+Ge @ _app-5d9cfc97252856aab8d4.js:1
+Qe @ _app-5d9cfc97252856aab8d4.js:1
+Ve @ _app-5d9cfc97252856aab8d4.js:1
+e.put @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ _app-5d9cfc97252856aab8d4.js:1
+(anonymous) @ commons.07050af145c9213dc3bd.js:1
+handleSubmit @ shipping-address-60d2f2ed65912e47b157.js:1
+r.handleSubmit @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+Promise.then (async)
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+(anonymous) @ d6573acfd21b8110d166e89f67cb2a4817637578.b1557cea6e678829b843.js:1
+We @ framework.3105c3e333ee10fd9558.js:1
+Ye @ framework.3105c3e333ee10fd9558.js:1
+(anonymous) @ framework.3105c3e333ee10fd9558.js:1
+xr @ framework.3105c3e333ee10fd9558.js:1
+Cr @ framework.3105c3e333ee10fd9558.js:1
+(anonymous) @ framework.3105c3e333ee10fd9558.js:1
+De @ framework.3105c3e333ee10fd9558.js:1
+(anonymous) @ framework.3105c3e333ee10fd9558.js:1
+Or @ framework.3105c3e333ee10fd9558.js:1
+Zt @ framework.3105c3e333ee10fd9558.js:1
+Jt @ framework.3105c3e333ee10fd9558.js:1
+t.unstable_runWithPriority @ framework.3105c3e333ee10fd9558.js:1
+Wl @ framework.3105c3e333ee10fd9558.js:1
+Me @ framework.3105c3e333ee10fd9558.js:1
+Xt @ framework.3105c3e333ee10fd9558.js:1
+BOOMR_plugins_errors_wrap @ 7JYHJ-QC46Z-PA42L-VXJDL-YTJF6:10
+09:37:15.646 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:16.085 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:18.493 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
+09:37:18.891 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND

@@ -1,0 +1,12 @@
+16:23:20.805 main.js:337 ## Tagmanager - isNoPush - isBodyPresent true
+16:23:20.806 main.js:337 ## Tagmanager - isNoPush - found nopush attribute false
+16:23:20.816 main.js:337 oidc auto login failed
+(anonymous) @ main.js:337
+16:23:20.835 main.js:337 ## Tagmanager - cookie trckCookie not found
+16:23:20.835 main.js:337 ## TagManager - REFERRER IS AH WEBSITE
+16:23:20.843 main.js:337 ## TagManager - Found data partner_id with value undefined in cookie (/, .accor.com)
+16:23:20.843 main.js:337 ## TagManager - Add data partner_id with value undefined to datalayer
+16:23:20.845 main.js:337 ## GTM State Loader - dont found GTMStateLoader in window - create a new one t
+16:23:20.845 main.js:337 ## Tagmanager - GTM is not initialized - State 1 - add to pending list
+16:26:34.221 /hotel/5998/index.en.shtml?dateIn=2022-12-14&nights=1&compositions=1&stayplus=false&snu=false#origin=accor:1          Failed to load resource: the server responded with a status of 500 (Internal Server Error)
+16:26:34.301 DevTools failed to load source map: Could not load content for chrome-extension://gighmmpiobklfepjocnamgkkbiglidom/browser-polyfill.js.map: System error: net::ERR_FILE_NOT_FOUND
