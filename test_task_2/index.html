@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="//www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" rev="stylesheet" type="text/css" href="styles.css"/>
+<title> Заявка на кредит </title>
+
+<script type="text/javascript">
+
+</script>
+
+
+
+</head>
+<body>
+  
+<div id="container" style="background-color: #B0E0E6;">
+<form action="#" class="mainform">
+ <p>
+      <h1 class="site-title" align='center'>Заявка на кредит.</h1>
+ </p>
+  <p><font color="red" face="Tahoma">
+      <h4 class="site-description" align='center'>Для первичных рассчетов по кредиту вы можете воспользоватся кредитным <a href="https://planetcalc.ru/3235/">калькулятором</a></h4>
+ </p>
+      <p class="sum">
+     <input type="number" name="sum" placeholder=" " min="10000" required/>
+           <label for="name">* Сумма заявки</label>
+     </p>
+      <p class="revenue">
+     <input type="number" name="revenue" placeholder=" " required/>
+           <label for="name">* Ежимесячный доход</label>
+     </p>
+     <p class="period">
+     <input type="number" name="period" placeholder=" " min="3" max="24" required/>
+           <label for="name">* Срок кредита, мес.</label>
+     </p>
+
+     <p class="name">
+     <input type="text" name="name" placeholder=" "pattern="[A-Za-zА-Яа-яЁё]+" required/>
+           <label for="name">* ФИО</label>
+     </p>
+     
+   
+     <p class="phone">
+     <input type="tel" name="phone" placeholder=" " pattern="^[\+]\d{1}[\(]\d{3}[\)]\d{3}-\d{2}-\d{2}$" required />
+         <label for="phone" >* Телефон (формат номера: +x(xxx)xxx-xx-xx) </label>
+    </p>
+ 
+   <p class="email">
+     <input type="text" name="email" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9-]+.+[a-zA-Z]{2,4}$"/>
+         <label for="email" >* E-Mail</label>
+    </p>
+    <p class="msg">
+     <textarea name="msg" placeholder="Коментарий (не больше 300 символов)"></textarea>
+         
+      </p>
+      <p class="send" >
+     <input type="submit" value="Оформить заявку" />
+   </p>
+</form>
+</div>
+</body>
+</html>
